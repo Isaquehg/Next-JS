@@ -3,8 +3,8 @@ import { useState } from 'react';
 function Home(){
     return(
         <div>
-            <h1>Hello Next JS</h1>
-            <h2>Counter</h2>
+            <h1>Hello Next JS - Test Branch</h1>
+            <h2>Counter Test</h2>
             < Counter />
         </div>
     )
